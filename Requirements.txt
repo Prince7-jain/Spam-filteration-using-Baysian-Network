@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+re
+itertools
+nltk.tokenize
+nltk.corpus
+sklearn
+worldcloud
+PIL
